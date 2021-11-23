@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on **Towy**
 
-- 👨‍💻 All of my projects are available [here](https://guerrini.altervista.org/)
+- 👨‍💻 All of my projects are available [here](https://hiper1125.github.io/portfolio/#projects)
 
 - 📧 Drop me a line **guerrini.work@gmail.com**
 
