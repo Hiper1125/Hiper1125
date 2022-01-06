@@ -3,7 +3,7 @@
 
 <h3 align="left">I'm a Game Designer based in Italy</h3>
 
-- 💻 I’m currently working on **Towy**
+- 💻 I’m currently working on **Dungeon Helper**
 
 - 👨‍💻 All of my projects are available [here](https://hiper1125.github.io/portfolio/#projects)
 
