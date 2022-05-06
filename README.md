@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Samuele</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hiper1125&label=Profile%20views&color=0e75b6&style=flat" alt="hiper1125" /> </p>
 
-<h3 align="left">I'm a Game Designer based in Italy</h3>
+<h3 align="left">I'm a Game Designer based in Italy (Currently at Vancouver, BC)</h3>
 
-- 💻 I’m currently working on **Dungeon Helper**
+- 💻 I’m currently studying at **VFS Game Design**
 
 - 👨‍💻 All of my projects are available [here](https://hiper1125.github.io/portfolio/#projects)
 
