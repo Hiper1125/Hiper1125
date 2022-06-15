@@ -5,7 +5,7 @@
 
 - 💻 I’m currently studying at **VFS Game Design**
 
-- 👨‍💻 All of my projects are available [here](https://hiper1125.github.io/portfolio/#projects)
+- 👨‍💻 Check my stuff [here](https://linktr.ee/guerrini)
 
 - 📧 Drop me a line **guerrini.work@gmail.com**
 
