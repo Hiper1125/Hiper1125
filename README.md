@@ -3,7 +3,7 @@
 
 <h3 align="left">I'm a Game Designer based in Italy <br> (Currently in Vancouver, BC)</h3>
 
-- 💻 I’m studying @ [**VFS Game Design**](https:/vfs.edu)
+- 💻 I’m studying @ [**VFS Game Design**](https://vfs.edu)
 
 - 👨‍💻 Check my stuff [here](https://linktr.ee/guerrini)
 
