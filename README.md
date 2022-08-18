@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Samuele</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hiper1125&label=Profile%20views&color=0e75b6&style=flat" alt="hiper1125" /> </p>
 
-<h3 align="left">I'm a Game Designer based in Italy <br> (Currently at Vancouver, BC)</h3>
+<h3 align="left">I'm a Game Designer based in Italy <br> (Currently in Vancouver, BC)</h3>
 
-- 💻 I’m currently studying at **VFS Game Design**
+- 💻 I’m studying @ [**VFS Game Design**](https:/vfs.edu)
 
 - 👨‍💻 Check my stuff [here](https://linktr.ee/guerrini)
 
