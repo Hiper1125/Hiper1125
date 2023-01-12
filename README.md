@@ -9,10 +9,6 @@
 
 - 📧 Drop me a line **guerrini.work@gmail.com**
 
-
-<h3 align="left">Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiper1125&show_icons=true&locale=en&layout=compact" alt="hiper1125" /></p>
-
 <h3 align="left">Stay connected:</h3>
 <p align="left">
 <a href="https://twitter.com/hiper1125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiper1125" height="30" width="40" /></a>
