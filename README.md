@@ -21,20 +21,4 @@ Samuele</a></h1>
 <a href="https://twitter.com/hiper1125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiper1125" height="30" width="40" /></a>
 <a href="https://fb.com/samu.guerrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samu.guerrini" height="30" width="40" /></a>
 <a href="https://instagram.com/guerrini.samuele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guerrini.samuele" height="30" width="40" /></a>
-
-<br>
-
-<h3 align="center" > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30">Check out my GitHub repository<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30"></h3>
-
-<div align="center">
-  <p>
-    <a href="https://github.com/Hiper1125/DungeonHelper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiper1125&repo=DungeonHelper&theme=dark" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Hiper1125/UnityAudioController">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hiper1125&repo=UnityAudioController&theme=dark" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 </p>
