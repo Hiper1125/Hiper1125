@@ -22,6 +22,8 @@ Samuele</a></h1>
 <a href="https://fb.com/samu.guerrini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samu.guerrini" height="30" width="40" /></a>
 <a href="https://instagram.com/guerrini.samuele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guerrini.samuele" height="30" width="40" /></a>
 
+<br>
+
 <h3 align="center" > <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30">Check out my GitHub repository<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30"></h3>
 
 <div align="center">
